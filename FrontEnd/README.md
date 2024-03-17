@@ -10,7 +10,8 @@ We chose to come to the ETHGlobal London with this project for the brainstorming
 
 ## Demo
 
-Insert gif or link to demo
+You can try to mint our Gnome at 
+https://eth-global-gnomeland.vercel.app/
 
 ## Contracts
 
